@@ -1,0 +1,10 @@
+##LogProxyInVendor tool
+#on boot
+service loghidlvendorservice /vendor/bin/loghidlvendorservice
+    interface vendor.mediatek.hardware.log@1.0::ILog ModemLogHidlServer
+    interface vendor.mediatek.hardware.log@1.0::ILog MobileLogHidlServer
+    
+    class hal
+    class main
+    disabled
+

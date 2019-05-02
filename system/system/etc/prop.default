@@ -1,0 +1,44 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.actionable_compatible_property.enabled=true
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+dalvik.vm.usejit=true
+dalvik.vm.usejitprofiles=true
+dalvik.vm.dexopt.secondary=true
+dalvik.vm.appimageformat=lz4
+pm.dexopt.first-boot=quicken
+pm.dexopt.boot=verify
+pm.dexopt.install=speed-profile
+pm.dexopt.bg-dexopt=speed-profile
+pm.dexopt.ab-ota=speed-profile
+pm.dexopt.inactive=verify
+pm.dexopt.shared=speed
+dalvik.vm.dex2oat-minidebuginfo=true
+debug.atrace.tags.enableflags=0
+ro.audio.usb.period_us=16000
+ro.mediatek.platform=MT6771
+ro.mediatek.version.branch=alps-mp-p0.mp1
+ro.mediatek.version.release=alps-mp-p0.mp1-V5.69
+persist.vendor.vzw_device_type=0
+ro.com.android.mobiledata=true
+ro.base_build=noah
+ro.opa.eligible_device=true
+ro.setupwizard.mode=OPTIONAL
+setupwizard.feature.predeferred_enabled=false
+ro.com.google.gmsversion=9_201812
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Fri Jan 25 10:42:14 CST 2019
+ro.bootimage.build.date.utc=1548384134
+ro.bootimage.build.fingerprint=UMIDIGI/F1_EEA/F1:9/PPR1.180610.011/eng.root.20190125.104625:user/release-keys
+persist.sys.usb.config=none

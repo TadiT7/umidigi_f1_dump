@@ -1,0 +1,4 @@
+on post-fs-data
+    mkdir /data/vendor/agps_supl 0771 gps system
+
+

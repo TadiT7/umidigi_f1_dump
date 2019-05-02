@@ -1,0 +1,33 @@
+This SW Support Peripherals Lists As Follow :;
+Gsensor Lists :;
+bmi160 (2019-04-22 20:47:37);
+
+Msensor Lists :;
+qmc7983 (2019-04-22 19:53:15);
+
+Gyrsensor Lists :;
+bmi160 (2019-04-22 20:47:37);
+
+ALS/PS Lists :;
+vcnl36832 (2019-04-22 19:53:15);
+
+Lcd Lists :;
+FT8719_W632732IAA (2019-04-22 20:48:26);
+TC3315_W632752IAA (2019-04-22 20:48:26);
+
+TouchPanel Lists :;
+FOCALTECH_TS (2019-04-22 20:48:26);
+PARADE (2019-04-22 20:48:26);
+
+Carmera Lists :;
+s5kgm1_mipi_raw (2019-04-23 10:48:35);
+gc5035_mipi_raw (2019-04-22 20:48:29);
+s5k3p3sx_mipi_raw (2019-04-22 20:48:29);
+
+Carmera Version Lists :;
+s5kgm1_mipi_raw@OFG_39176_v00 (2019-04-24 14:48:04); s5k3p3sx_mipi_raw@HS_854F_v00 (2019-04-22 20:48:34); s5kgm1_mipi_raw@OFG_39176_v00 (2019-04-24 14:48:04); s5k3p3sx_mipi_raw@HS_854F_v00 (2019-04-22 20:48:34); s5kgm1_mipi_raw@OFG_39176_v00 (2019-04-24 14:48:04); s5k3p3sx_mipi_raw@HS_854F_v00 (2019-04-22 20:48:34); s5kgm1_mipi_raw@OFG_39176_v00 (2019-04-24 14:48:04); s5k3p3sx_mipi_raw@HS_854F_v00 (2019-04-22 20:48:34); s5kgm1_mipi_raw@OFG_39176_v00 (2019-04-24 14:48:04); s5k3p3sx_mipi_raw@HS_854F_v00 (2019-04-22 20:48:34); ;
+
+Memory Lists :;
+KM3H6001CM_B515 (2019-04-22-19:52:44);
+KM3V6001CM_B705 (2019-04-22-19:52:44);
+H9HP52AECMMDBR (2019-04-22-19:52:44);

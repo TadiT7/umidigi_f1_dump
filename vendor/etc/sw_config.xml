@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sunwave:Config xmlns:sunwave="http://www.sunwavecorp.com/some-location" Environment="TEE" platform="项目信息: test">
+
+    <feature>
+        <key_emulation cname="按键功能开关" default="false" desc="默认：false" format="boolean" useable="true">true</key_emulation>
+    </feature>
+
+</sunwave:Config>

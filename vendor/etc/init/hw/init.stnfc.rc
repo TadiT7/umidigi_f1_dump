@@ -1,0 +1,12 @@
+
+# This file needs to be executed by vendor_init at boot of the device,
+# both in normal and FM mode.
+
+on post-fs
+    start nfc_hal_service
+
+service stflashtool /vendor/bin/STFlashTool -c /vendor/etc/script_DB10mtk.txt
+    class late_start
+    user nfc
+    group radio
+    oneshot
